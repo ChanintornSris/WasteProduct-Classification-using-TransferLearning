@@ -56,6 +56,5 @@ The training was conducted in two primary stages:
 ## File Structure
 
 - `food_waste_classification_using_tensorflow.ipynb`: Jupyter Notebook containing the full pipeline (data augmentation, model generation, training, and evaluation).
-- `O_R_tlearn_vgg16.keras`: The model saved after the initial feature extraction stage.
 - `O_R_tlearn_fine_tune_vgg16.keras`: The final, fine-tuned VGG16 model.
 - `o-vs-r-split/`: Directory containing the categorized waste images.
